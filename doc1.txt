@@ -1,6 +1,0 @@
-approve X
-
-reject
-
-cancel
-
